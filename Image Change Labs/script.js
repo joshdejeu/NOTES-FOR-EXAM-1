@@ -7,7 +7,7 @@
 
 
 
-// Lab 1 - 01/27/22 - 02/01/22 - 01/03/22
+// Lab 1 - 01/27/22 - 02/01/22
 // GOAL: change big pic SRC on small pic that was clicked
 function imgChange(obj) {
   document.getElementById('big_pic').src = obj.src;
@@ -15,7 +15,7 @@ function imgChange(obj) {
 
 
 
-// Lab 2 - 02/08/22
+// Lab 2 - 02/03/22
 // GOAL: Change images to new set of images on double click
 /*
 document.addEventListener("dblclick", function(){
